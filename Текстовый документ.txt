@@ -1,2 +1,3 @@
 select count(*) from core.reg_clvalue;;
+dfsdf
 dfe23
