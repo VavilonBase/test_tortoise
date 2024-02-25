@@ -1,1 +1,1 @@
-select * from core.reg_clvalue
+select count(*) from core.reg_clvalue
