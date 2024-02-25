@@ -1,3 +1,3 @@
-select count(*) from core.reg_clvalue;;
+select * from core.reg_clvalue;;
 dfsdf
 dfe23
